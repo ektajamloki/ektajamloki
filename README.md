@@ -74,7 +74,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ektajamloki&show_icons=true&theme=default" alt="Ekta's GitHub Stats" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=ektajamloki&show_icons=true&theme=default](https://ektajamloki.vercel.app/)" alt="Ekta Jamloki" />
 </p>
 
 <p align="center">
