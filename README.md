@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **ektajamloki/ektajamloki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -31,4 +31,4 @@ B.Tech Computer Science Engineering student | Full-Stack Developer | MERN & Pyth
 Ekta's GitHub Stats
 
 Thanks for stopping by! ⭐ Feel free to explore my repositories and connect with me.
--->
+
